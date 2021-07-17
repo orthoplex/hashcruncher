@@ -1,6 +1,6 @@
 # hashcruncher
 
-Consider the probem of mapping golf score names to their numeric values as succinctly as possible.
+Consider the problem of mapping golf score names to their numeric values as succinctly as possible.
 The complete mapping is as follows:
 
 | Score Name   | Numerical value |
